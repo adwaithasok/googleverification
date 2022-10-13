@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594576838812",
+    "project_id": "goverify-9f1c9",
+    "storage_bucket": "goverify-9f1c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594576838812:android:c3aa998204ec9b0d265d59",
+        "android_client_info": {
+          "package_name": "com.example.gmailverify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594576838812-ul8bsmsu935va69k3j1mj5tj63jgpbd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gmailverify",
+            "certificate_hash": "2980514316437ea10ece5cdca729da45fb7ea775"
+          }
+        },
+        {
+          "client_id": "594576838812-ur1d588lo93kf30jd6c72hhqi22r2v1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFY7S76auXO17tU8WbTVdWW2e3PekD2sQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594576838812-ur1d588lo93kf30jd6c72hhqi22r2v1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
